@@ -5,5 +5,5 @@
 2. Run ```java -jar axonserver.jar```.
 3. Run **ServiceRegistry** project.
 4. Build **core** Project.
-5. Add **core** depedency in **OrdersService**, **ProductsService** and **UsersService** service.
+5. Add **core** depedency in **OrdersService**, **ProductsService**, **UsersService** service ans build.
 6. Run all services (**OrdersService**, **ProductsService** and **UsersService**)
