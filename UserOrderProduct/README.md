@@ -6,4 +6,9 @@
 3. Run **ServiceRegistry** project.
 4. Build **core** Project.
 5. Add **core** depedency in **OrdersService**, **ProductsService**, **UsersService** service ans build.
-6. Run all services (**OrdersService**, **ProductsService** and **UsersService**)
+6. Run all services (**OrdersService**, **ProductsService** and **UsersService**).
+7. Open:
+      http://localhost:8761/
+      http://localhost:8024/
+8. 
+          
