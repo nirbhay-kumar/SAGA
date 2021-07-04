@@ -7,8 +7,6 @@
 4. Build **core** Project.
 5. Add **core** depedency in **OrdersService**, **ProductsService**, **UsersService** service ans build.
 6. Run all services (**OrdersService**, **ProductsService** and **UsersService**).
-7. Open:
-            [ServiceRegistry](http://localhost:8761/)<br>
-            [AxonServer](http://localhost:8024/)
+7. Open [ServiceRegistry](http://localhost:8761/) and [AxonServer](http://localhost:8024/)
 8. 
           
